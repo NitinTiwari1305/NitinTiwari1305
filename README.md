@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I love to solving maching learning problems.
+I love to solving machine-learning problems. This repo contains a few of my small ML projects. Their data and content is for demonstration purposes only.
+
 
 * 🌍  I'm based in Inida
 * ✉️  You can contact me at [nitintiwari1305@gmail.com](mailto:nitintiwari1305@gmail.com)
