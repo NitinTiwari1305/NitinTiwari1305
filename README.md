@@ -13,6 +13,8 @@ I love to solving machine-learning problems. This repo contains a few of my smal
 * 🤝  I'm open to collaborating on machine learning projects.
 * ⚡  Half of my codes are written by my cat.
 
+
+Do check my other projects as they give more detailed information about me and my work.
 ### Skills
 
 
