@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I love to solving machine-learning problems. This repo contains a few of my small ML projects. Their data and content is for demonstration purposes only.
+I love to solving machine-learning problems. This repo contains a few of my ML projects. Their data and content is for demonstration purposes only.
 
 
 * 🌍  I'm based in Inida
@@ -14,7 +14,7 @@ I love to solving machine-learning problems. This repo contains a few of my smal
 * ⚡  Half of my codes are written by my cat.
 
 
-Do check my other projects as they give more detailed information about me and my work.
+
 ### Skills
 
 
