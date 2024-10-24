@@ -9,7 +9,7 @@ I love to solving machine-learning problems. This repo contains a few of my smal
 
 * 🌍  I'm based in Inida
 * ✉️  You can contact me at [nitintiwari1305@gmail.com](mailto:nitintiwari1305@gmail.com)
-* 🧠  I'm learning Large Language Model, and how to better optimize my code.
+* 🧠  I'm am proficient in LLM, NLP, ANN, CNN, Computer Vision, Mulimodal AI and fine tunning.
 * 🤝  I'm open to collaborating on machine learning projects.
 * ⚡  Half of my codes are written by my cat.
 
